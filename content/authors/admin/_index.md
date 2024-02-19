@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yun Wang 王韵
+title: 王韵
 
 # Name pronunciation (optional)
 name_pronunciation: Yee-woo-en Wang
@@ -47,7 +47,7 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+# skills:
   # - name: Technical
   #   items:
   #     - name: Python
